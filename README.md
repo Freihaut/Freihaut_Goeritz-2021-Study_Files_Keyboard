@@ -1,8 +1,11 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4445197.svg)](https://doi.org/10.5281/zenodo.4445197)
+
 # Study Material Repository
 
 ### General Information
 
 This repository contains all materials, data and data analysis files associated with the research paper "Does People's Keyboard Typing Reflect their Stress Level - An Exploratory Study" by Freihaut & Göritz.
+
 
 ### Repository Structure
 
@@ -17,3 +20,7 @@ All data files should be able to be excecutable to reproduce all data preprocess
 We tried to comment the code as much as possible to help navigating through it.
 
 For any questions regarding the study material, contact: paul.freihaut@psychologie.uni-freiburg.de
+
+A release of this repository was archived in Zenodo. To cite the data (according to Zenodo):
+
+Freihaut, Paul. (2021). Study Material for the paper: Does People's Keyboard Typing Reflect their Stress Level – An Explorative Study (Version 1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4445197
