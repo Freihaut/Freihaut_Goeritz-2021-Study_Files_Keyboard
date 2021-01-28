@@ -23,4 +23,4 @@ For any questions regarding the study material, contact: paul.freihaut@psycholog
 
 A release of this repository was archived in Zenodo. To cite the data (according to Zenodo):
 
-Freihaut, Paul. (2021). Study Material for the paper: Does People's Keyboard Typing Reflect their Stress Level – An Explorative Study (Version 1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4445197
+Freihaut, Paul, & Göritz, Anja. (2021). Study Material for the paper: Does People's Keyboard Typing Reflect their Stress Level – An Explorative Study (Version 1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4445197
