@@ -4,7 +4,7 @@
 
 ### General Information
 
-This repository contains all materials, data and data analysis files associated with the research paper "Does People's Keyboard Typing Reflect their Stress Level - An Exploratory Study" by Freihaut & Göritz.
+This repository contains all materials, data and data analysis files associated with the research paper: Freihaut, P. & Göritz, A. S. (2021). Does peoples’ keyboard typing reflect their stress level? Zeitschrift für Psychologie, 229(4), 245-250. https://doi.org/10.1027/2151-2604/a000468
 
 
 ### Repository Structure
